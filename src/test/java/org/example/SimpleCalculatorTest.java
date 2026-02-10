@@ -10,7 +10,6 @@ class SimpleCalculatorTest {
         SimpleCalculator calculation = new SimpleCalculator();
         assertEquals(16, calculation.add(8, 7));
 
-//cxxvd41
 
     }
 
